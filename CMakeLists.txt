@@ -4,4 +4,4 @@ project(leetcode)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(leetcode
-        2_add_two_numbers.cpp)
+        1979_find_greatest_common_divisor_of_array.cpp)
