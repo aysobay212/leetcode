@@ -4,4 +4,4 @@ project(leetcode)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(leetcode
-        1_two_sum.cpp)
+        2_add_two_numbers.cpp)
